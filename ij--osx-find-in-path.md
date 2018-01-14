@@ -63,7 +63,7 @@ Steps
 1. Press ⌘⇧G several times to navigate backward to each occurrence of "method1".
 1. Repeat until bored.
 
-#### Kata: Find text in open files
+### Kata: Find text in open files
 
 Key sequences to practice:
 
