@@ -15,12 +15,12 @@ This project contains _kata_ that are meant to be useful for practicing IDE keyb
 - [Find in path](ij-osx-find-in-path.md)
 - [Search everywhere](ij-osx-search-everywhere.md)
 - [Open/close files, navigate between editor tabs](ij-osx-editor-tabs.md)
-- [Go to class, file, symbol, etc.]()
+
+**Editing**
+
 - [Go to last edit location]()
 - [Go to next/previous method]()
 - [Go to next/previous error]()
-
-**Editing**
 
 **Refactoring**
 
