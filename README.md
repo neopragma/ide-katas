@@ -2,7 +2,7 @@
 
 This project contains _kata_ that are meant to be useful for practicing IDE keyboard shortcuts as well as common refactoring sequences, with emphasis on using keyboard shortcuts to facilitate refactoring.
 
-## tl;dr => to the _kata_
+## The _kata_
 
 ##### JetBrains IntelliJ IDEA on Mac OS X
 
