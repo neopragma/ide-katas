@@ -6,7 +6,7 @@ Practice keyboard shortcuts to find and replace text in various scopes.
 
 When JetBrains products refer to a "path" in this context, they mean a search path. You can search for objects in a Project, Module, Directory, or Scope. In this case _scope_ means a set of objects that have something in common, such as "all open files" or "everything pertaining to _test_".
 
-#### Kata: Find text in project
+### Kata: Find text in project
 
 Key sequences to practice:
 
@@ -25,7 +25,7 @@ Steps
 1. Press ⌘⇧G several times to navigate backward to each occurrence of "method1".
 1. Repeat until bored.
 
-#### Kata: Find text in module
+### Kata: Find text in module
 
 Key sequences to practice:
 
@@ -44,7 +44,7 @@ Steps
 1. Press ⌘⇧G several times to navigate backward to each occurrence of "method1".
 1. Repeat until bored.
 
-#### Kata: Find text in directory
+### Kata: Find text in directory
 
 Key sequences to practice:
 

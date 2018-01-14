@@ -4,7 +4,7 @@
 
 Practice keyboard shortcuts to find and replace text in a single file.
 
-#### Kata: Find occurrences of text in the current file
+### Kata: Find occurrences of text in the current file
 
 Key sequences to practice:
 
@@ -23,7 +23,7 @@ Steps
 1. Press ⌘⇧G several times to navigate backward to each occurrence of "result".
 1. Repeat until bored.
 
-#### Kata: Replace occurrences of text in the current file
+### Kata: Replace occurrences of text in the current file
 
 Key sequences to practice:
 
