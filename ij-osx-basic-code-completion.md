@@ -78,6 +78,7 @@ and the caret is positioned immediatly after the token, "Math".
         double randomNumber = Math.random();
 ```
 _Note:_ You might wonder why you should press three keys instead of just typing in the semicolon yourself. The statement completion feature can fill in much more than just a semicolon in different situations. It's a good habit to use it routinely.
+
 9. On the next line in the source file, type the following:
 ```java
         double result = ra
