@@ -9,7 +9,7 @@ Kata for practicing keyboard shortcuts for basic code completion features
 Key sequences to practice:
 
 - ⌃␣ (Ctrl + Space) - basic code completion
-- ⌘⇧↩︎ (Command + Shift + Return) - complete statement
+- ⌘⇧⏎ (Command + Shift + Return) - complete statement
 - ⌥⌘⇧] (Option + Command + Shift + ]) - select from caret to end of code block
 - ⌫ (Delete) - delete selected text
 
@@ -20,25 +20,25 @@ Keystrokes without explanations:
 - Repeat the following keyboard inputs until the sequence becomes fluid.
 ```
         double randomNumber = M
-↩︎
+⏎
 .
 ran
-↩︎
-⌘⇧↩︎
-↩︎
+⏎
+⌘⇧⏎
+⏎
         double result = ra
-↩︎
-⌘⇧↩︎
-↩︎
+⏎
+⌘⇧⏎
+⏎
         S
-↩︎
+⏎
 .
-↩︎
+⏎
 .
-↩︎
+⏎
         System.out.println("Result: " + re
-↩︎
-⌘⇧↩︎
+⏎
+⌘⇧⏎
 ```
 
 And then to revert:
