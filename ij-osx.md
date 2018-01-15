@@ -33,7 +33,7 @@ Kata for practicing keyboard shortcuts
 
 **Refactoring**
 
-- [Rename]()
+- [Rename](ij-osx-rename.md)
 - [Extract Method]()
 - [Inline]()
 - [Decompose Conditional]()
