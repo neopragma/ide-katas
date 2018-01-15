@@ -17,6 +17,7 @@ Kata for practicing keyboard shortcuts
 **Editing**
 
 - [Optimize imports]()
+- [Navigate forward/backward through tokens]()
 - [Code completion](ij-osx-code-completion.md)
 - [Comment / uncomment]()
 - [Expand / collapse]()

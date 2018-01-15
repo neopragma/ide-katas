@@ -23,4 +23,9 @@ In other cases, you have to make a choice. If you need the IntelliJ mapping more
 1. Go to the Shortcuts tab
 1. Uncheck the checkboxes next to key mappings you want to disable
 
+## Rename
+
+The default key mapping in IntelliJ to invoke the Rename refactoring is ⇧F^. The default key mapping in OS X for ⇧F6 is "move focus to the floating window." You have to change one or the other if you need to use both features of the two products.
+
+In my case, I changed the Intellij mapping to ⌃F6 (Ctrl + F6).
 
