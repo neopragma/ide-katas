@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
+      <change beforePath="$PROJECT_DIR$/ij-osx-rename.md" afterPath="$PROJECT_DIR$/ij-osx-rename.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -114,12 +114,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx-rename.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ij-osx-rename.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ij-osx-rename.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="236">
-                <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <first_editor relative-caret-position="180">
+                <caret line="8" column="148" lean-forward="false" selection-start-line="8" selection-start-column="148" selection-end-line="8" selection-end-column="148" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -183,8 +183,8 @@
         <option value="$PROJECT_DIR$/ij-osx-basic-code-completion.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/osx-intellij-interference.md" />
-        <option value="$PROJECT_DIR$/ij-osx-rename.md" />
         <option value="$PROJECT_DIR$/ij-osx.md" />
+        <option value="$PROJECT_DIR$/ij-osx-rename.md" />
       </list>
     </option>
   </component>
@@ -521,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516033330078</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Forgot the link from README.md to ij-osx.refactor.md.">
+      <created>1516033428341</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1516033428341</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -610,7 +617,8 @@
     <MESSAGE value="Changed Return key symbol in ij-osx-basic-code-completion.md" />
     <MESSAGE value="Improved formatting in some markdown files." />
     <MESSAGE value="Added kata for Rename refactoring." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added kata for Rename refactoring." />
+    <MESSAGE value="Forgot the link from README.md to ij-osx.refactor.md." />
+    <option name="LAST_COMMIT_MESSAGE" value="Forgot the link from README.md to ij-osx.refactor.md." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -866,19 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-rename.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="236">
-            <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -903,6 +898,19 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="389">
             <caret line="35" column="27" lean-forward="false" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-rename.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="8" column="148" lean-forward="false" selection-start-line="8" selection-start-column="148" selection-end-line="8" selection-end-column="148" />
             <folding />
           </first_editor>
           <second_editor>

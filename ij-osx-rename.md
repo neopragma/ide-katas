@@ -6,6 +6,8 @@
 
 The default mapping for ⇧F6 in OS X is "move focus to the floating window." The default mapping for ⇧F6 in Intellij IDEA is "Rename". I suggest changing the IntelliJ IDEA mapping for Rename to ⌃F6 (Ctrl + F6), which is really fn⌃F6 (Fn + Ctrl +F6) on the physical Mac keyboard.
 
+There is nothing to be gained by having separate katas to practice renaming files, directories, packages, etc. because the keystrokes are the same.
+
 **Key sequences to practice**
 
 - ⌥→ (Option + Right Arrow) - Move foreward through text one token at a time
