@@ -16,6 +16,7 @@ Kata for practicing keyboard shortcuts
 
 **Editing**
 
+- [Code completion](ij-osx-code-completion.md)
 - [Go to last edit location]()
 - [Go to next/previous method]()
 - [Go to next/previous error]()

@@ -43,5 +43,5 @@ The project includes _kata_ that focus on the following categories of activities
 
 There's a natural overlap between practicing keyboard shortcuts and practicing refactorings supported by an IDE. We want to perform multi-step refactorings smoothly and without getting side-tracked by trying to remember forgotten key mappings.
 
-Practicing the refactoring _kata_ in this project serves the duel purpose of practicing the refactorings themselves and reinforcing muscle memory of the corresponding keyboard shortcuts.
+Practicing the refactoring _kata_ in this project serves the dual purpose of practicing the refactorings themselves and reinforcing muscle memory of the corresponding keyboard shortcuts.
 
