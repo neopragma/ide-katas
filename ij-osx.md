@@ -16,12 +16,30 @@ Kata for practicing keyboard shortcuts
 
 **Editing**
 
+- [Optimize imports]()
 - [Code completion](ij-osx-code-completion.md)
+- [Comment / uncomment]()
+- [Expand / collapse]()
+- [Surround with]()
+- [Generate code]()
+- [Extend / shrink]()
+- [Split / join lines]()
+- [Cut / Copy / Paste / Duplicate / Delete]()
+- [Go to line number]()
 - [Go to last edit location]()
 - [Go to next/previous method]()
 - [Go to next/previous error]()
 
 **Refactoring**
 
+- [Rename]()
+- [Extract Method]()
+- [Inline]()
+- [Decompose Conditional]()
 - [Compose Method]()
 - [Iteration to Lambda]()
+
+**Version Control**
+
+- [Git: Add changes]()
+- [Git: Commit and push]()

@@ -6,14 +6,14 @@ Kata for practicing keyboard shortcuts for basic code completion features
 
 ### Kata: Basic code completion
 
-Key sequences to practice:
+**Key sequences to practice**
 
 - ⌃␣ (Ctrl + Space) - basic code completion
 - ⌘⇧⏎ (Command + Shift + Return) - complete statement
 - ⌥⌘⇧] (Option + Command + Shift + ]) - select from caret to end of code block
 - ⌫ (Delete) - delete selected text
 
-Keystrokes without explanations:
+**Keystrokes without explanations**
 
 - Open the Java source file, CodeCompletionPractice.java.
 - Begin editing at the top of method1().
@@ -50,7 +50,7 @@ And then to revert:
 ⌫
 ```
 
-Walkthrough of steps with explanations:
+**Walkthrough of steps with explanations**
 
 1. Open the Java source file, CodeCompletionPractice.java.
 1. Begin editing at the top of method1().
