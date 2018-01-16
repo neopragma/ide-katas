@@ -1,3 +1,5 @@
+[Top](README.md) => [IntelliJ on OS X](ij-osx.md)
+
 # Mac OS X / IntelliJ IDEA keymap interference
 
 When the operating system and an application define the same key mapping, the operating system's mapping wins. Some examples of IntelliJ IDEA key mappings that are the same as OS X mappings are:
