@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-extend-shrink.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-toggle-comments.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/rain-in-spain.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" afterPath="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,12 +47,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+              <first_editor relative-caret-position="465">
+                <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -60,12 +62,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx-extend-shrink.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ij-osx-extend-shrink.md">
+      <file leaf-file-name="ij-osx-toggle-comments.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ij-osx-toggle-comments.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="360">
-                <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <first_editor relative-caret-position="167">
+                <caret line="63" column="90" lean-forward="false" selection-start-line="63" selection-start-column="90" selection-end-line="63" selection-end-column="90" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -78,12 +80,22 @@
       <file leaf-file-name="LongConditional.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="360">
+              <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
               <folding>
-                <element signature="e#2391#2392#0" expanded="true" />
-                <element signature="e#2476#2477#0" expanded="true" />
+                <element signature="e#2352#2353#0" expanded="true" />
+                <element signature="e#2437#2438#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rain-in-spain.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rain-in-spain.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -149,10 +161,12 @@
         <option value="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" />
         <option value="$PROJECT_DIR$/ij-osx-expand-collapse.md" />
         <option value="$PROJECT_DIR$/ij-osx-surround-with.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-generate-code.md" />
-        <option value="$PROJECT_DIR$/ij-osx.md" />
         <option value="$PROJECT_DIR$/ij-osx-extend-shrink.md" />
+        <option value="$PROJECT_DIR$/rain-in-spain.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
+        <option value="$PROJECT_DIR$/ij-osx-common-editing.md" />
+        <option value="$PROJECT_DIR$/ij-osx.md" />
       </list>
     </option>
   </component>
@@ -189,6 +203,32 @@
           <expand>
             <path>
               <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="idekatas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -565,7 +605,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516135288106</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Added &quot;extend/shrink selection&quot; keyboard shortcut kata">
+      <created>1516135875714</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1516135875714</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -648,7 +695,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added kata for opening/closing files and navigating between editor tabs" />
     <MESSAGE value="Corrected link error in README.md" />
     <MESSAGE value="Corrections in README.md" />
     <MESSAGE value="Split IntelliJ / Mac kata list from README.md." />
@@ -673,7 +719,8 @@
     <MESSAGE value="Added &quot;expand/collapse&quot; and &quot;surround with&quot; keyboard katas" />
     <MESSAGE value="Corrected filename for &quot;surround with&quot; page" />
     <MESSAGE value="Added &quot;generate code&quot; keyboard shortcut kata" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;generate code&quot; keyboard shortcut kata" />
+    <MESSAGE value="Added &quot;extend/shrink selection&quot; keyboard shortcut kata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;extend/shrink selection&quot; keyboard shortcut kata" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -693,8 +740,8 @@
         <state relative-caret-position="360">
           <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
-            <element signature="e#2391#2392#0" expanded="true" />
-            <element signature="e#2476#2477#0" expanded="true" />
+            <element signature="e#2352#2353#0" expanded="true" />
+            <element signature="e#2437#2438#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -768,8 +815,8 @@
         <state relative-caret-position="240">
           <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
           <folding>
-            <element signature="e#2391#2392#0" expanded="true" />
-            <element signature="e#2476#2477#0" expanded="true" />
+            <element signature="e#2352#2353#0" expanded="true" />
+            <element signature="e#2437#2438#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -874,26 +921,6 @@
             <element signature="e#2626#2627#0" expanded="false" />
             <element signature="e#2684#2685#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-basic-code-completion.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="245">
-            <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1069,22 +1096,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="e#2391#2392#0" expanded="true" />
-            <element signature="e#2476#2477#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx.md">
+    <entry file="file://$PROJECT_DIR$/ij-osx-extend-shrink.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="435">
-            <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+          <first_editor relative-caret-position="360">
+            <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1093,11 +1109,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-extend-shrink.md">
+    <entry file="file://$PROJECT_DIR$/ij-osx-basic-code-completion.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <first_editor relative-caret-position="65">
+            <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rain-in-spain.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="e#2352#2353#0" expanded="true" />
+            <element signature="e#2437#2438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-toggle-comments.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="167">
+            <caret line="63" column="90" lean-forward="false" selection-start-line="63" selection-start-column="90" selection-end-line="63" selection-end-column="90" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="465">
+            <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
             <folding />
           </first_editor>
           <second_editor>
