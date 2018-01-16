@@ -16,7 +16,8 @@ Kata for practicing keyboard shortcuts
 
 **Editing**
 
-- [Navigate forward/backward through tokens]()
+- [Navigate forward/backward through tokens](ij-osx-navigate-through-tokens.md)
+- [Navigate forward/backward through camel hump words](ij-osx-navigate-camelhumps.md)
 - [Basic code completion](ij-osx-basic-code-completion.md)
 - [Smart code completion](ij-osx-smart-code-completion.md)
 - [Comment / uncomment]()
