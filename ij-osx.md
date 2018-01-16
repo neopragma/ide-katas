@@ -19,6 +19,7 @@ Kata for practicing keyboard shortcuts
 **Editing**
 
 - [Navigate forward/backward through tokens](ij-osx-navigate-through-tokens.md)
+- [Navigate forward/backward through methods](ij-osx-navigate-through-methods.md)
 - [Basic code completion](ij-osx-basic-code-completion.md)
 - [Smart code completion](ij-osx-smart-code-completion.md)
 - [Expand / collapse]()
@@ -28,7 +29,6 @@ Kata for practicing keyboard shortcuts
 - [Cut/Copy/Paste/Duplicate/Delete/Split/Join/Comment]()
 - [Go to line number]()
 - [Go to last edit location]()
-- [Go to next/previous method]()
 - [Go to next/previous error]()
 
 **Refactoring**

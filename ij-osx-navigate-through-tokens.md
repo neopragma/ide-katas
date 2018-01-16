@@ -20,7 +20,7 @@
 ```
 
 1. Open the Java source file, LongConditional.java.
-1. Press ⌥→ (Option + Right Arrow), pressing → (Right Arrow) repeatedly while holding down ⌥ (Option), to skip foward through the text one token at a time.
+1. Press ⌥→ (Option + Right Arrow), pressing → (Right Arrow) repeatedly while holding down ⌥ (Option), to skip forward through the text one token at a time.
 1. Press ⌥← (Option + Left Arrow), pressing ← (Left Arrow) repeatedly while holding down ⌥ (Option), to skip backward through the text one token at a time.
 1. Repeat until bored.
 

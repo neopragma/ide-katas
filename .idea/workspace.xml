@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-navigate-through-methods.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" afterPath="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,12 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <first_editor relative-caret-position="345">
+                <caret line="21" column="80" lean-forward="false" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -59,12 +61,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx-view-toggles.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ij-osx-view-toggles.md">
+      <file leaf-file-name="ij-osx-navigate-through-methods.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-methods.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="315">
-                <caret line="21" column="80" lean-forward="false" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
+                <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ij-osx-navigate-through-tokens.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-tokens.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="214">
+                <caret line="22" column="114" lean-forward="false" selection-start-line="22" selection-start-column="114" selection-end-line="22" selection-end-column="114" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -77,8 +94,8 @@
       <file leaf-file-name="LongConditional.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            <state relative-caret-position="120">
+              <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding>
                 <element signature="e#2352#2353#0" expanded="true" />
                 <element signature="e#2437#2438#0" expanded="true" />
@@ -144,9 +161,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-rename.md" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-camelhumps.md" />
-        <option value="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" />
         <option value="$PROJECT_DIR$/ij-osx-view-toggles.md" />
         <option value="$PROJECT_DIR$/ij-osx.md" />
+        <option value="$PROJECT_DIR$/ij-osx-navigate-through-methods.md" />
+        <option value="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" />
       </list>
     </option>
   </component>
@@ -195,32 +213,6 @@
           <expand>
             <path>
               <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idekatas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="idekatas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="idekatas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -543,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516129094697</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Minor formatting improvements">
+      <created>1516129832765</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1516129832765</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -649,7 +648,8 @@
     <MESSAGE value="Added kata for navigating by token and selecting." />
     <MESSAGE value="Removed reference to deleted file." />
     <MESSAGE value="Added kata for toggling different views using keyboard shortcuts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added kata for toggling different views using keyboard shortcuts" />
+    <MESSAGE value="Minor formatting improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor formatting improvements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -765,19 +765,6 @@
         <state relative-caret-position="270">
           <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-find-in-file.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="237">
-            <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
         </state>
       </provider>
     </entry>
@@ -926,19 +913,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-tokens.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="615">
-            <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-rename.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -949,17 +923,6 @@
           <second_editor>
             <js_state />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-          <folding>
-            <element signature="e#2352#2353#0" expanded="true" />
-            <element signature="e#2437#2438#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -979,8 +942,58 @@
     <entry file="file://$PROJECT_DIR$/ij-osx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <first_editor relative-caret-position="345">
+            <caret line="21" column="80" lean-forward="false" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="false" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#2352#2353#0" expanded="true" />
+            <element signature="e#2437#2438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-find-in-file.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="319">
+            <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-methods.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="27" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-tokens.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="214">
+            <caret line="22" column="114" lean-forward="false" selection-start-line="22" selection-start-column="114" selection-end-line="22" selection-end-column="114" />
             <folding />
           </first_editor>
           <second_editor>
