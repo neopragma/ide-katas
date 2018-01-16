@@ -6,6 +6,9 @@ package com.neopragma.idekatas;
  */
 public class LongConditional
 {
+    public LongConditional() {
+    }
+
     public String method1(String stringArg, int intArg, boolean booleanArg) {
         int errorCount = 0;
         String result = "";
@@ -35,6 +38,7 @@ public class LongConditional
                 } else {
                     result = "Category B";
                     log(result);
+
                 }
             } else {
                 if (intArg >= 10 && intArg < 20) {

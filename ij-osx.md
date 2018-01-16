@@ -24,7 +24,7 @@ Kata for practicing keyboard shortcuts
 - [Smart code completion](ij-osx-smart-code-completion.md)
 - [Expand/collapse code block](ij-osx-expand-collapse.md)
 - [Surround with](ij-osx-surround-with.md)
-- [Generate code]()
+- [Generate code](ij-osx-generate-code.md)
 - [Extend / shrink]()
 - [Cut/Copy/Paste/Duplicate/Delete/Split/Join/Comment]()
 - [Go to line number]()
