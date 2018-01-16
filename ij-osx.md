@@ -25,7 +25,7 @@ Kata for practicing keyboard shortcuts
 - [Expand/collapse code block](ij-osx-expand-collapse.md)
 - [Surround with](ij-osx-surround-with.md)
 - [Generate code](ij-osx-generate-code.md)
-- [Extend / shrink]()
+- [Extend/shrink selection](ij-osx-extend-shrink.md)
 - [Cut/Copy/Paste/Duplicate/Delete/Split/Join/Comment]()
 - [Go to line number]()
 - [Go to last edit location]()
