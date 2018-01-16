@@ -2,7 +2,7 @@
 
 # JetBrains IntelliJ IDEA on Mac OS X
 
-Kata for practicing keyboard shortcuts for basic code completion features
+Kata for practicing keyboard shortcuts for commenting/uncommenting lines of code
 
 ### Kata: Insert block comments
 

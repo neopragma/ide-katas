@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-toggle-comments.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/rain-in-spain.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-copy-paste-text.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-split-join.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ij-osx-toggle-comments.md" afterPath="$PROJECT_DIR$/ij-osx-toggle-comments.md" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" afterPath="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
+      <change beforePath="$PROJECT_DIR$/rain-in-spain.txt" afterPath="$PROJECT_DIR$/rain-in-spain.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,8 +52,8 @@
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
-                <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+              <first_editor relative-caret-position="480">
+                <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -62,12 +63,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx-toggle-comments.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ij-osx-toggle-comments.md">
+      <file leaf-file-name="ij-osx-navigate-through-tokens.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-tokens.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="167">
-                <caret line="63" column="90" lean-forward="false" selection-start-line="63" selection-start-column="90" selection-end-line="63" selection-end-column="90" />
+              <first_editor relative-caret-position="214">
+                <caret line="22" column="114" lean-forward="false" selection-start-line="22" selection-start-column="114" selection-end-line="22" selection-end-column="114" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ij-osx-copy-paste-text.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ij-osx-copy-paste-text.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="680">
+                <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -80,8 +96,8 @@
       <file leaf-file-name="LongConditional.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            <state relative-caret-position="135">
+              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
               <folding>
                 <element signature="e#2352#2353#0" expanded="true" />
                 <element signature="e#2437#2438#0" expanded="true" />
@@ -93,9 +109,24 @@
       <file leaf-file-name="rain-in-spain.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rain-in-spain.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ij-osx-split-join.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ij-osx-split-join.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="155">
+                <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -163,10 +194,13 @@
         <option value="$PROJECT_DIR$/ij-osx-surround-with.md" />
         <option value="$PROJECT_DIR$/ij-osx-generate-code.md" />
         <option value="$PROJECT_DIR$/ij-osx-extend-shrink.md" />
-        <option value="$PROJECT_DIR$/rain-in-spain.txt" />
+        <option value="$PROJECT_DIR$/ij-osx-toggle-comments.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-common-editing.md" />
         <option value="$PROJECT_DIR$/ij-osx.md" />
+        <option value="$PROJECT_DIR$/rain-in-spain.txt" />
+        <option value="$PROJECT_DIR$/ij-osx-split-join.md" />
+        <option value="$PROJECT_DIR$/ij-osx-copy-paste-text.md" />
       </list>
     </option>
   </component>
@@ -612,7 +646,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516135875714</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Added kata for toggling source comments on and off">
+      <created>1516139239127</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1516139239127</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -695,7 +736,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Corrected link error in README.md" />
     <MESSAGE value="Corrections in README.md" />
     <MESSAGE value="Split IntelliJ / Mac kata list from README.md." />
     <MESSAGE value="Added kata for basic code completion keyboard shortcuts" />
@@ -720,7 +760,8 @@
     <MESSAGE value="Corrected filename for &quot;surround with&quot; page" />
     <MESSAGE value="Added &quot;generate code&quot; keyboard shortcut kata" />
     <MESSAGE value="Added &quot;extend/shrink selection&quot; keyboard shortcut kata" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;extend/shrink selection&quot; keyboard shortcut kata" />
+    <MESSAGE value="Added kata for toggling source comments on and off" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added kata for toggling source comments on and off" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1018,19 +1059,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-tokens.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="214">
-            <caret line="22" column="114" lean-forward="false" selection-start-line="22" selection-start-column="114" selection-end-line="22" selection-end-column="114" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-methods.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1122,14 +1150,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rain-in-spain.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1140,10 +1160,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-toggle-comments.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="4" column="80" lean-forward="false" selection-start-line="4" selection-start-column="80" selection-end-line="4" selection-end-column="80" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        <state relative-caret-position="135">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
           <folding>
             <element signature="e#2352#2353#0" expanded="true" />
             <element signature="e#2437#2438#0" expanded="true" />
@@ -1151,11 +1184,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-toggle-comments.md">
+    <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-tokens.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="167">
-            <caret line="63" column="90" lean-forward="false" selection-start-line="63" selection-start-column="90" selection-end-line="63" selection-end-column="90" />
+          <first_editor relative-caret-position="214">
+            <caret line="22" column="114" lean-forward="false" selection-start-line="22" selection-start-column="114" selection-end-line="22" selection-end-column="114" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rain-in-spain.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-copy-paste-text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="680">
+            <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-split-join.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="155">
+            <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1167,8 +1234,8 @@
     <entry file="file://$PROJECT_DIR$/ij-osx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="29" column="45" lean-forward="true" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+          <first_editor relative-caret-position="480">
+            <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
             <folding />
           </first_editor>
           <second_editor>

@@ -1,7 +1,6 @@
-The rain in Spain falls mainly in the pain.
+The rain in Spain falls mainly in the plain.
 
-The quick brown fox
-jumps over the lazy dog.
+The quick brown fox jumped over the lazy dog.
 
 Life? Don't tell me about life!
 - Marvin, the Paranoid Android
