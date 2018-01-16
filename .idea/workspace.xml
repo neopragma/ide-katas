@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-view-toggles.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
     </list>
@@ -49,8 +48,8 @@
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+              <first_editor relative-caret-position="420">
+                <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -146,8 +145,8 @@
         <option value="$PROJECT_DIR$/ij-osx-rename.md" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-camelhumps.md" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" />
-        <option value="$PROJECT_DIR$/ij-osx.md" />
         <option value="$PROJECT_DIR$/ij-osx-view-toggles.md" />
+        <option value="$PROJECT_DIR$/ij-osx.md" />
       </list>
     </option>
   </component>
@@ -537,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516121362211</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Added kata for toggling different views using keyboard shortcuts">
+      <created>1516129094697</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1516129094697</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -642,7 +648,8 @@
     <MESSAGE value="Added kata for navigating through text token by token." />
     <MESSAGE value="Added kata for navigating by token and selecting." />
     <MESSAGE value="Removed reference to deleted file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed reference to deleted file." />
+    <MESSAGE value="Added kata for toggling different views using keyboard shortcuts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added kata for toggling different views using keyboard shortcuts" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -972,8 +979,8 @@
     <entry file="file://$PROJECT_DIR$/ij-osx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="11" column="47" lean-forward="false" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <first_editor relative-caret-position="420">
+            <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
