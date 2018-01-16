@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" afterPath="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -42,27 +41,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-                <folding />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ij-osx-navigate-through-tokens.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-tokens.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="615">
-                <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+              <first_editor relative-caret-position="239">
+                <caret line="18" column="79" lean-forward="false" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -140,9 +124,9 @@
         <option value="$PROJECT_DIR$/osx-intellij-interference.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-rename.md" />
-        <option value="$PROJECT_DIR$/ij-osx.md" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-camelhumps.md" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" />
+        <option value="$PROJECT_DIR$/ij-osx.md" />
       </list>
     </option>
   </component>
@@ -489,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516119930562</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Added kata for navigating by token and selecting.">
+      <created>1516121187329</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1516121187329</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -583,7 +574,8 @@
     <MESSAGE value="Consolidated code completion pages." />
     <MESSAGE value="Removed page for optimize imports; no need for a kata" />
     <MESSAGE value="Added kata for navigating through text token by token." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added kata for navigating through text token by token." />
+    <MESSAGE value="Added kata for navigating by token and selecting." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added kata for navigating by token and selecting." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -860,19 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-navigate-camelhumps.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -902,6 +881,19 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="615">
             <caret line="45" column="11" lean-forward="false" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="239">
+            <caret line="18" column="79" lean-forward="false" selection-start-line="18" selection-start-column="79" selection-end-line="18" selection-end-column="79" />
             <folding />
           </first_editor>
           <second_editor>
