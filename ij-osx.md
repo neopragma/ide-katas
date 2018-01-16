@@ -16,7 +16,6 @@ Kata for practicing keyboard shortcuts
 
 **Editing**
 
-- [Optimize imports]()
 - [Navigate forward/backward through tokens]()
 - [Basic code completion](ij-osx-basic-code-completion.md)
 - [Smart code completion](ij-osx-smart-code-completion.md)
