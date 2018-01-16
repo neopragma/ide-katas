@@ -1,4 +1,4 @@
-[Top](README.md)
+[Top](README.md) => [IntelliJ on OS X](ij-osx.md)
 
 # IntelliJ IDEA on Mac OSX: Generate code
 
