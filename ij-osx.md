@@ -9,6 +9,8 @@ Kata for practicing keyboard shortcuts
 
 **Navigate, search, and replace**
 
+- [Common view toggles](ij-osx-view-toggles.md)
+- [Open and close project view](ij-osx-project-view.md)
 - [Find in file](ij-osx-find-in-file.md)
 - [Find in path](ij-osx-find-in-path.md)
 - [Search everywhere](ij-osx-search-everywhere.md)
