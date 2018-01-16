@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/osx-intellij-interference.md" afterPath="$PROJECT_DIR$/osx-intellij-interference.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,7 +34,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+                <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -44,12 +44,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx-rename.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ij-osx-rename.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ij-osx-rename.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="15">
-                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="osx-intellij-interference.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/osx-intellij-interference.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="480">
+                <caret line="27" column="75" lean-forward="false" selection-start-line="27" selection-start-column="75" selection-end-line="27" selection-end-column="75" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -107,7 +122,6 @@
         <option value="$PROJECT_DIR$/ij-find-in-path.md" />
         <option value="$PROJECT_DIR$/ij-osx-code-completion.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java" />
-        <option value="$PROJECT_DIR$/osx-intellij-interference.md" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-camelhumps.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-common-editing.md" />
@@ -131,6 +145,7 @@
         <option value="$PROJECT_DIR$/ij-osx-toggle-comments.md" />
         <option value="$PROJECT_DIR$/ij-osx-view-toggles.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/osx-intellij-interference.md" />
       </list>
     </option>
   </component>
@@ -597,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516144018242</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Minor formatting and spelling corrections.">
+      <created>1516144709332</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1516144709332</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -680,7 +702,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added kata for basic code completion keyboard shortcuts" />
     <MESSAGE value="Corrections to ij-osx-code-completion.md" />
     <MESSAGE value="Fixed formatting problem in ij-osx-code-completion.md" />
     <MESSAGE value="Added ij-osx-smart-code-completion.md" />
@@ -705,7 +726,8 @@
     <MESSAGE value="Added kata for toggling source comments on and off" />
     <MESSAGE value="Added kata for copying/pasting text &amp; splitting/joining lines" />
     <MESSAGE value="Added link back to IntelliJ on OS X page from each kata page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added link back to IntelliJ on OS X page from each kata page" />
+    <MESSAGE value="Minor formatting and spelling corrections." />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor formatting and spelling corrections." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -880,19 +902,6 @@
             <element signature="e#2626#2627#0" expanded="false" />
             <element signature="e#2684#2685#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/osx-intellij-interference.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="18" column="132" lean-forward="true" selection-start-line="18" selection-start-column="132" selection-end-line="18" selection-end-column="132" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
         </state>
       </provider>
     </entry>
@@ -1160,7 +1169,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1179,7 +1188,20 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="15">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/osx-intellij-interference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="27" column="75" lean-forward="false" selection-start-line="27" selection-start-column="75" selection-end-line="27" selection-end-column="75" />
             <folding />
           </first_editor>
           <second_editor>
