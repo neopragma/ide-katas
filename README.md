@@ -1,4 +1,4 @@
-# IDE Katas
+# IDE Kata
 
 This project contains _kata_ that are meant to be useful for practicing IDE keyboard shortcuts as well as common refactoring sequences, with emphasis on using keyboard shortcuts to facilitate refactoring.
 

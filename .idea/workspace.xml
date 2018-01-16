@@ -3,23 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-basic-code-completion.md" afterPath="$PROJECT_DIR$/ij-osx-basic-code-completion.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-copy-paste-text.md" afterPath="$PROJECT_DIR$/ij-osx-copy-paste-text.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-editor-tabs.md" afterPath="$PROJECT_DIR$/ij-osx-editor-tabs.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-expand-collapse.md" afterPath="$PROJECT_DIR$/ij-osx-expand-collapse.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-extend-shrink.md" afterPath="$PROJECT_DIR$/ij-osx-extend-shrink.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-find-in-file.md" afterPath="$PROJECT_DIR$/ij-osx-find-in-file.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-find-in-path.md" afterPath="$PROJECT_DIR$/ij-osx-find-in-path.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-generate-code.md" afterPath="$PROJECT_DIR$/ij-osx-generate-code.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-navigate-through-methods.md" afterPath="$PROJECT_DIR$/ij-osx-navigate-through-methods.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" afterPath="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-rename.md" afterPath="$PROJECT_DIR$/ij-osx-rename.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-search-everywhere.md" afterPath="$PROJECT_DIR$/ij-osx-search-everywhere.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-smart-code-completion.md" afterPath="$PROJECT_DIR$/ij-osx-smart-code-completion.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-split-join.md" afterPath="$PROJECT_DIR$/ij-osx-split-join.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-surround-with.md" afterPath="$PROJECT_DIR$/ij-osx-surround-with.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-toggle-comments.md" afterPath="$PROJECT_DIR$/ij-osx-toggle-comments.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-view-toggles.md" afterPath="$PROJECT_DIR$/ij-osx-view-toggles.md" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="120">
-                <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -60,8 +44,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx-navigate-through-tokens.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-tokens.md">
+      <file leaf-file-name="ij-osx-rename.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ij-osx-rename.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="15">
@@ -121,7 +105,6 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/ij-find-in-file.md" />
         <option value="$PROJECT_DIR$/ij-find-in-path.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ij-osx-code-completion.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java" />
         <option value="$PROJECT_DIR$/osx-intellij-interference.md" />
@@ -147,6 +130,7 @@
         <option value="$PROJECT_DIR$/ij-osx-surround-with.md" />
         <option value="$PROJECT_DIR$/ij-osx-toggle-comments.md" />
         <option value="$PROJECT_DIR$/ij-osx-view-toggles.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -606,7 +590,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516143688463</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Added link back to IntelliJ on OS X page from each kata page">
+      <created>1516144018242</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1516144018242</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -689,7 +680,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Split IntelliJ / Mac kata list from README.md." />
     <MESSAGE value="Added kata for basic code completion keyboard shortcuts" />
     <MESSAGE value="Corrections to ij-osx-code-completion.md" />
     <MESSAGE value="Fixed formatting problem in ij-osx-code-completion.md" />
@@ -714,7 +704,8 @@
     <MESSAGE value="Added &quot;extend/shrink selection&quot; keyboard shortcut kata" />
     <MESSAGE value="Added kata for toggling source comments on and off" />
     <MESSAGE value="Added kata for copying/pasting text &amp; splitting/joining lines" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added kata for copying/pasting text &amp; splitting/joining lines" />
+    <MESSAGE value="Added link back to IntelliJ on OS X page from each kata page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added link back to IntelliJ on OS X page from each kata page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1087,38 +1078,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="6" column="40" lean-forward="false" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-rename.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="15">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-search-everywhere.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1185,6 +1144,38 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-navigate-through-tokens.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-rename.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="15">
