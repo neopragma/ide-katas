@@ -2,6 +2,7 @@ package com.neopragma.idekatas;
 
 /**
  * Java source file for practicing keyboard shortcuts and refactoring
+ *
  */
 public class LongConditional
 {
@@ -12,7 +13,7 @@ public class LongConditional
             result = "stringArg cannot be null";
             errorCount += 1;
         } else {
-            if (stringArg.eq
+            if (stringArg.equals("")) {
                 result = "stringArg cannot be empty";
                 errorCount += 1;
             }

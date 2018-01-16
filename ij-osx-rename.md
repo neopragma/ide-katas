@@ -10,7 +10,7 @@ There is nothing to be gained by having separate katas to practice renaming file
 
 **Key sequences to practice**
 
-- ⌥→ (Option + Right Arrow) - Move foreward through text one token at a time
+- ⌥→ (Option + Right Arrow) - Move forward through text one token at a time
 - ⌥← (Option + Left Arrow) - Move backward through text one token at a time
 - fn⌃F6 (Fn + Ctrl + F6) - Rename (remapped as described above)
 - ⌘Z (Command + Z) - Undo

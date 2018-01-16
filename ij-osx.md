@@ -18,7 +18,8 @@ Kata for practicing keyboard shortcuts
 
 - [Optimize imports]()
 - [Navigate forward/backward through tokens]()
-- [Code completion](ij-osx-code-completion.md)
+- [Basic code completion](ij-osx-basic-code-completion.md)
+- [Smart code completion](ij-osx-smart-code-completion.md)
 - [Comment / uncomment]()
 - [Expand / collapse]()
 - [Surround with]()
