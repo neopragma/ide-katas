@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-basic-code-completion.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-copy-paste-text.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-editor-tabs.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-expand-collapse.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-extend-shrink.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-find-in-file.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-find-in-path.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-generate-code.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-go-to-declaration.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-go-to-last-edit-location.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-go-to-next-error.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-go-to-superclass.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-navigate-through-methods.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-navigate-through-tokens.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-rename.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-search-everywhere.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-show-navigation-bar.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-smart-code-completion.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-split-join.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-surround-with.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-toggle-comments.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-view-toggles.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-find-in-path.md" afterPath="$PROJECT_DIR$/ij-osx-find-in-path.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-generate-code.md" afterPath="$PROJECT_DIR$/ij-osx-generate-code.md" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,12 +19,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="150">
-                <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+                <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -122,7 +113,6 @@
         <option value="$PROJECT_DIR$/ij-osx-go-to-superclass.md" />
         <option value="$PROJECT_DIR$/ij-osx-go-to-declaration.md" />
         <option value="$PROJECT_DIR$/ij-osx.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ij-win-lin.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-basic-code-completion.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-copy-paste-text.md" />
@@ -148,6 +138,7 @@
         <option value="$PROJECT_DIR$/ij-win-lin-surround-with.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-toggle-comments.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-view-toggles.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -742,7 +733,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516203664443</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Modifications to README.md">
+      <created>1516217204113</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1516217204113</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1123,25 +1121,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-view-toggles.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1497,12 +1476,31 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
-            <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
