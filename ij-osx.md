@@ -29,7 +29,6 @@ Kata for practicing keyboard shortcuts
 - [Toggle comments](ij-osx-toggle-comments.md)
 - [Copy and paste text](ij-osx-copy-paste-text.md)
 - [Split and join lines](ij-osx-split-join.md)
-- [Go to line number]()
 - [Go to last edit location]()
 - [Go to next/previous error]()
 
