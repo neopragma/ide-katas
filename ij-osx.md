@@ -18,6 +18,7 @@ Kata for practicing keyboard shortcuts
 - [Open/close files, navigate between editor tabs](ij-osx-editor-tabs.md)
 - [Go to last edit location](ij-osx-go-to-last-edit-location.md)
 - [Go to next/previous error](ij-osx-go-to-next-error.md)
+- [Go to superclass/supermethod](ij-osx-go-to-superclass.md)
 
 **Editing**
 
