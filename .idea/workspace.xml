@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-go-to-last-edit-location.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-copy-paste-text.md" afterPath="$PROJECT_DIR$/ij-osx-copy-paste-text.md" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,8 +24,33 @@
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <first_editor relative-caret-position="477">
+                <caret line="31" column="63" lean-forward="false" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rain-in-spain.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rain-in-spain.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ij-osx-go-to-last-edit-location.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ij-osx-go-to-last-edit-location.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="510">
+                <caret line="29" column="51" lean-forward="false" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -83,9 +107,7 @@
         <option value="$PROJECT_DIR$/ij-find-in-file.md" />
         <option value="$PROJECT_DIR$/ij-find-in-path.md" />
         <option value="$PROJECT_DIR$/ij-osx-code-completion.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-camelhumps.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-common-editing.md" />
         <option value="$PROJECT_DIR$/rain-in-spain.txt" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-through-tokens.md" />
@@ -107,8 +129,11 @@
         <option value="$PROJECT_DIR$/osx-intellij-interference.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ij-osx-go-to-line-number.md" />
-        <option value="$PROJECT_DIR$/ij-osx.md" />
         <option value="$PROJECT_DIR$/ij-osx-copy-paste-text.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
+        <option value="$PROJECT_DIR$/ij-osx-go-to-last-edit-location.md" />
+        <option value="$PROJECT_DIR$/ij-osx.md" />
       </list>
     </option>
   </component>
@@ -617,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516145024269</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Improved &quot;copy and paste text&quot; kata for IntelliJ on OS X">
+      <created>1516196875665</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1516196875665</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -729,7 +761,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added ij-osx-smart-code-completion.md" />
     <MESSAGE value="Changed Return key symbol in ij-osx-basic-code-completion.md" />
     <MESSAGE value="Improved formatting in some markdown files." />
     <MESSAGE value="Added kata for Rename refactoring." />
@@ -754,7 +785,8 @@
     <MESSAGE value="Minor formatting and spelling corrections." />
     <MESSAGE value="More spelling corrections." />
     <MESSAGE value="Added link back to IntelliJ OS X page from keymap interference page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added link back to IntelliJ OS X page from keymap interference page" />
+    <MESSAGE value="Improved &quot;copy and paste text&quot; kata for IntelliJ on OS X" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improved &quot;copy and paste text&quot; kata for IntelliJ on OS X" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -934,27 +966,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-code-completion.md" />
     <entry file="file://$PROJECT_DIR$/ij-osx-navigate-camelhumps.md" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#2352#2353#0" expanded="true" />
-            <element signature="e#2437#2438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-basic-code-completion.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1203,14 +1214,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rain-in-spain.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-go-to-line-number.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1227,8 +1230,48 @@
     <entry file="file://$PROJECT_DIR$/ij-osx-copy-paste-text.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="55">
+          <first_editor relative-caret-position="525">
             <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rain-in-spain.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#2352#2353#0" expanded="true" />
+            <element signature="e#2437#2438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-go-to-last-edit-location.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="29" column="51" lean-forward="false" selection-start-line="29" selection-start-column="51" selection-end-line="29" selection-end-column="51" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1240,8 +1283,8 @@
     <entry file="file://$PROJECT_DIR$/ij-osx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <first_editor relative-caret-position="477">
+            <caret line="31" column="63" lean-forward="false" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
             <folding />
           </first_editor>
           <second_editor>
