@@ -6,8 +6,9 @@ You wouldn't repeat these _kata_ hundreds of times, as you might do with program
 
 [Background Information](background-info.md)
 
-## The _katas_
+## The _kata_
 
+- [Intellij IDEA on Windows/Linux](ij-win-lin.md)
 - [Intellij IDEA on Mac OS X](ij-osx.md)
 
 

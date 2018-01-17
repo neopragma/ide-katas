@@ -11,6 +11,7 @@ Kata for practicing keyboard shortcuts
 
 - [Common view toggles](ij-osx-view-toggles.md)
 - [Open and close project view](ij-osx-project-view.md)
+- [Show navigation bar](ij-osx-show-navigation-bar.md)
 - [Find in file](ij-osx-find-in-file.md)
 - [Find in path](ij-osx-find-in-path.md)
 - [Search everywhere](ij-osx-search-everywhere.md)
