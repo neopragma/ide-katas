@@ -6,8 +6,8 @@
 
 **Key sequences to practice**
 
-- ⌃→ (Ctrl + Down Arrow) - Move forward to the next method
-- ⌃← (Ctrl + Up Arrow) - Move backward to the previous method
+- ⌃↑ (Ctrl + Down Arrow) - Move forward to the next method
+- ⌃↓ (Ctrl + Up Arrow) - Move backward to the previous method
 
 **Keystrokes without explanations**
 
