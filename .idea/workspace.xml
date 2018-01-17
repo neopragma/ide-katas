@@ -4,7 +4,6 @@
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ij-osx-extract-method-2.md" afterPath="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-extract-method.md" afterPath="$PROJECT_DIR$/ij-osx-extract-method.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,8 +71,8 @@
         <entry file="file://$PROJECT_DIR$/ij-osx-extract-method-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+              <first_editor relative-caret-position="1635">
+                <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -462,13 +461,6 @@
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
     </task>
-    <task id="LOCAL-00005" summary="Added kata for opening/closing files and navigating between editor tabs">
-      <created>1515943509950</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1515943509950</updated>
-    </task>
     <task id="LOCAL-00006" summary="Corrected link error in README.md">
       <created>1515943589541</created>
       <option name="number" value="00006" />
@@ -805,7 +797,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516231251369</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Corrected link text on two documents">
+      <created>1516231662484</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1516231662485</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -888,7 +887,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added &quot;expand/collapse&quot; and &quot;surround with&quot; keyboard katas" />
     <MESSAGE value="Corrected filename for &quot;surround with&quot; page" />
     <MESSAGE value="Added &quot;generate code&quot; keyboard shortcut kata" />
     <MESSAGE value="Added &quot;extend/shrink selection&quot; keyboard shortcut kata" />
@@ -913,7 +911,8 @@
     <MESSAGE value="Fixed spelling error in ij-osx-extract-method.md" />
     <MESSAGE value="Re-titled extract method page as &quot;extract method 1&quot; for IntelliJ OS X" />
     <MESSAGE value="Added second Extract Method kata for IntelliJ IDEA on Mac OS X" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added second Extract Method kata for IntelliJ IDEA on Mac OS X" />
+    <MESSAGE value="Corrected link text on two documents" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrected link text on two documents" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1493,8 +1492,8 @@
     <entry file="file://$PROJECT_DIR$/ij-osx-extract-method-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <first_editor relative-caret-position="1635">
+            <caret line="135" column="0" lean-forward="true" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>

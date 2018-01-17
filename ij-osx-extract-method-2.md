@@ -100,32 +100,33 @@ with the caret positioned just after the first equals sign (=).
 ```java
         if (errorCount > 0) {
 ```
-the selected text should be
+
+16. Press ⌥⇧→ (Option + Shift + Right Arrow) three times to select the text inside the parentheses. The selected text should be
 ```java
 errorCount > 0
 ```
 
-16. Overtype the selection with the text, "!result.equals("")", resulting in:
+17. Overtype the selection with the text, "!result.equals("")", resulting in:
 ```java
         if (!result.equals("")) {
 ```
 
-17. Now we will delete the remaining line that contains a reference to _errorCount_. Press fnF2 (Fn + F2) to move the caret to the next error, and ⌘⌫ (Command + Delete/Backspace) to delete that line.
+18. Now we will delete the remaining line that contains a reference to _errorCount_. Press fnF2 (Fn + F2) to move the caret to the next error, and ⌘⌫ (Command + Delete/Backspace) to delete that line.
 
-18. The method should not return anything. Press ⌃↑ (Ctrl + Up Arrow) to move the caret to the method declaration.
-19. Press ⌥⇧← (Option + Shift + Left Arrow) to move the caret ahead to the token "String" (method return type) and select it.
-20. Overtype the selection with "void", so the line now looks like this:
+19. The method should not return anything. Press ⌃↑ (Ctrl + Up Arrow) to move the caret to the method declaration.
+20. Press ⌥⇧← (Option + Shift + Left Arrow) to move the caret ahead to the token "String" (method return type) and select it.
+21. Overtype the selection with "void", so the line now looks like this:
 ```java
     private void validateArguments(String stringArg, int intArg) {
 ```
 
 at this point, the _return_ statement is marked as an error.
 
-21. Press fnF2 (Fn + F2) to advance the caret to the next error.
-22. Press ⌘⌫ (Command + Delete/Backspace) to delete the line containing the _return_ statement.
-23. By changing this method to return _void_, we introduced an error on the line that calls the method. Press fn⇧F2 (Fn + Shift + F2) to move the caret to the previous error. This is the line that calls the _validateArguments_ method.
-24. Press ⌥⇧→ (Option + Shift + Right Arrow) twice to select the text, "result = ".
-25. Press ⌫ (Delete/Backspace) to delete the selection. The line should now look like this:
+22. Press fnF2 (Fn + F2) to advance the caret to the next error.
+23. Press ⌘⌫ (Command + Delete/Backspace) to delete the line containing the _return_ statement.
+24. By changing this method to return _void_, we introduced an error on the line that calls the method. Press fn⇧F2 (Fn + Shift + F2) to move the caret to the previous error. This is the line that calls the _validateArguments_ method.
+25. Press ⌥⇧→ (Option + Shift + Right Arrow) twice to select the text, "result = ".
+26. Press ⌫ (Delete/Backspace) to delete the selection. The line should now look like this:
 ```java
         validateArguments(stringArg, intArg);
 ```
