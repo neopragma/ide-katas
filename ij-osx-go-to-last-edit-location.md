@@ -9,7 +9,6 @@ Kata for practicing keyboard shortcuts for common editing operations
 **Key sequences to practice**
 
 - ⌘⇧⌫ (Command + Shift + Delete/Backspace) - move caret to the previous point where you made an edit (not necessarily in the same file)
-- ⌘↘︎ (Command + End) or fn⌘→ (Fn + Command + Right Arrow) - move caret to the
 
 **Walkthrough of steps with explanations**
 

@@ -17,7 +17,7 @@ Kata for practicing keyboard shortcuts
 - [Search everywhere](ij-osx-search-everywhere.md)
 - [Open/close files, navigate between editor tabs](ij-osx-editor-tabs.md)
 - [Go to last edit location](ij-osx-go-to-last-edit-location.md)
-- [Go to next/previous error]()
+- [Go to next/previous error](ij-osx-go-to-next-error.md)
 
 **Editing**
 
