@@ -29,7 +29,7 @@ public class LongConditional
         }
         if (booleanArg) {
             if (intArg >= 0 && intArg < 10) {
-                if (stringArg.matches("^ABC.*?")) {
+                if (isABC(stringArg)) {
                     result = "Category A";
                     log(result);
                 } else {
@@ -38,7 +38,7 @@ public class LongConditional
                 }
             } else {
                 if (intArg >= 10 && intArg < 20) {
-                    if (stringArg.matches("^ABC.*?")) {
+                    if (isABC(stringArg)) {
                         result = "Category E";
                         log(result);
                     } else {
@@ -49,7 +49,7 @@ public class LongConditional
             }
         } else {
             if (intArg >= 0 && intArg < 10) {
-                if (stringArg.matches("^ABC.*?")) {
+                if (isABC(stringArg)) {
                     result = "Category C";
                     log(result);
                 } else {
@@ -58,7 +58,7 @@ public class LongConditional
                 }
             } else {
                 if (intArg >= 10 && intArg < 20) {
-                    if (stringArg.matches("^ABC.*?")) {
+                    if (isABC(stringArg)) {
                         result = "Category G";
                         log(result);
                     } else {
@@ -69,6 +69,10 @@ public class LongConditional
             }
         }
         return result;
+    }
+
+    private boolean isABC(String stringArg) {
+        return stringArg.matches("^ABC.*?");
     }
 
     private void log(String value) {
