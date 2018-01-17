@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-navigate-through-methods.md" afterPath="$PROJECT_DIR$/ij-osx-navigate-through-methods.md" />
-      <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" afterPath="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
+      <change beforePath="$PROJECT_DIR$/ij-osx-extract-method-2.md" afterPath="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
+      <change beforePath="$PROJECT_DIR$/ij-osx-extract-method.md" afterPath="$PROJECT_DIR$/ij-osx-extract-method.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,12 +25,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="574">
                 <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ij-osx-extract-method.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ij-osx-extract-method.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -55,12 +68,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ij-osx-extract-method-2.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ij-osx-extract-method-2.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ij-osx-extract-method-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="750">
-                <caret line="135" column="94" lean-forward="false" selection-start-line="135" selection-start-column="94" selection-end-line="135" selection-end-column="94" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -171,12 +184,12 @@
         <option value="$PROJECT_DIR$/ij-win-lin-toggle-comments.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-view-toggles.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/ij-osx-extract-method.md" />
         <option value="$PROJECT_DIR$/ij-osx-extract-method-2md" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-through-methods.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
-        <option value="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
         <option value="$PROJECT_DIR$/ij-osx.md" />
+        <option value="$PROJECT_DIR$/ij-osx-extract-method.md" />
+        <option value="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
       </list>
     </option>
   </component>
@@ -448,13 +461,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Improved formatting of markdown files for readability">
-      <created>1515941065513</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1515941065513</updated>
     </task>
     <task id="LOCAL-00005" summary="Added kata for opening/closing files and navigating between editor tabs">
       <created>1515943509950</created>
@@ -792,7 +798,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516226965220</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Added second Extract Method kata for IntelliJ IDEA on Mac OS X">
+      <created>1516231251369</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1516231251369</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -875,7 +888,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Corrected filename for &quot;find-in-path&quot; kata" />
     <MESSAGE value="Added &quot;expand/collapse&quot; and &quot;surround with&quot; keyboard katas" />
     <MESSAGE value="Corrected filename for &quot;surround with&quot; page" />
     <MESSAGE value="Added &quot;generate code&quot; keyboard shortcut kata" />
@@ -900,7 +912,8 @@
     <MESSAGE value="Fixed spelling error in filename" />
     <MESSAGE value="Fixed spelling error in ij-osx-extract-method.md" />
     <MESSAGE value="Re-titled extract method page as &quot;extract method 1&quot; for IntelliJ OS X" />
-    <option name="LAST_COMMIT_MESSAGE" value="Re-titled extract method page as &quot;extract method 1&quot; for IntelliJ OS X" />
+    <MESSAGE value="Added second Extract Method kata for IntelliJ IDEA on Mac OS X" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added second Extract Method kata for IntelliJ IDEA on Mac OS X" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1401,19 +1414,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-extract-method.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-go-to-next-error.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1464,11 +1464,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="574">
+            <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-extract-method.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-extract-method-2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="750">
-            <caret line="135" column="94" lean-forward="false" selection-start-line="135" selection-start-column="94" selection-end-line="135" selection-end-column="94" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1480,19 +1506,6 @@
         <state relative-caret-position="225">
           <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="574">
-            <caret line="41" column="48" lean-forward="false" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
         </state>
       </provider>
     </entry>

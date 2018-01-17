@@ -1,4 +1,4 @@
-[Top](README.md) => [IntelliJ IDEA on Windows/Linux](ij-osx.md)
+[Top](README.md) => [IntelliJ IDEA on Mac OS X](ij-osx.md)
 
 # JetBrains IntelliJ IDEA on Mac OS X
 
