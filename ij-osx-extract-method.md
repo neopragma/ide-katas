@@ -2,7 +2,7 @@
 
 # JetBrains IntelliJ IDEA on Mac OS X
 
-### Kata: Extract method
+### Kata: Extract method 1
 
 The _extract method_ refactoring takes a block of inline code and re-casts it as a method in the same class, replacing the inline code with a method call. Even if there is no duplication, it can be useful to extract chunks of code out of a long method to make the code more readable and easier to isolate.
 
@@ -72,18 +72,6 @@ To reverse the changes:
 
 1. Press ⌘Z (Command + Z) repeatedly until the changes have been reversed.
 
-
-
-
-
-x
-x
-x
-x
-x
-x
-x
-x
 
 
 

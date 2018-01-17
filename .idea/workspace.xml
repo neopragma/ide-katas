@@ -43,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/ij-osx-extract-method.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="180">
-                <caret line="8" column="91" lean-forward="false" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -432,13 +432,6 @@
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
     </task>
-    <task id="LOCAL-00002" summary="Added &quot;find in path&quot; katas">
-      <created>1515940846072</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1515940846072</updated>
-    </task>
     <task id="LOCAL-00003" summary="Updated README">
       <created>1515940915376</created>
       <option name="number" value="00003" />
@@ -775,7 +768,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516226788339</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Fixed spelling error in ij-osx-extract-method.md">
+      <created>1516226845761</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1516226845761</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -858,7 +858,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Minor formatting improvements" />
     <MESSAGE value="Added kata for navigating through source code method by method" />
     <MESSAGE value="Corrected filename for &quot;find-in-path&quot; kata" />
     <MESSAGE value="Added &quot;expand/collapse&quot; and &quot;surround with&quot; keyboard katas" />
@@ -883,7 +882,8 @@
     <MESSAGE value="Modifications to README.md" />
     <MESSAGE value="Added 1st of 2 kata for Extract Method for IntelliJ IDEA Mac OS X" />
     <MESSAGE value="Fixed spelling error in filename" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed spelling error in filename" />
+    <MESSAGE value="Fixed spelling error in ij-osx-extract-method.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed spelling error in ij-osx-extract-method.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1465,8 +1465,8 @@
     <entry file="file://$PROJECT_DIR$/ij-osx-extract-method.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="8" column="91" lean-forward="false" selection-start-line="8" selection-start-column="91" selection-end-line="8" selection-end-column="91" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor>
