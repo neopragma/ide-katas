@@ -19,6 +19,7 @@ Kata for practicing keyboard shortcuts
 - [Go to last edit location](ij-osx-go-to-last-edit-location.md)
 - [Go to next/previous error](ij-osx-go-to-next-error.md)
 - [Go to superclass/supermethod, view method hierarcy, view call hierarchy](ij-osx-go-to-superclass.md)
+- [Go to declaration, go to implementations](ij-osx-go-to-declaration.md)
 
 **Editing**
 
