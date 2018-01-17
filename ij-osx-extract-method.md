@@ -6,7 +6,7 @@
 
 The _extract method_ refactoring takes a block of inline code and re-casts it as a method in the same class, replacing the inline code with a method call. Even if there is no duplication, it can be useful to extract chunks of code out of a long method to make the code more readable and easier to isolate.
 
-_Extract method_ is often used to reduce duplication by consolidating identical or very simmilar inline code snippets into a single method. It is also a building block for multi-steps refactorings such as _decompose conditional_ and _compose method_.
+_Extract method_ is often used to reduce duplication by consolidating identical or very similar inline code snippets into a single method. It is also a building block for multi-steps refactorings such as _decompose conditional_ and _compose method_.
 
 ### Key sequences to practice
 
