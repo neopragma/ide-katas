@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-extract-method.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" afterPath="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="589">
-                <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+              <first_editor relative-caret-position="559">
+                <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -46,7 +44,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="446">
-                <caret line="59" column="99" lean-forward="true" selection-start-line="59" selection-start-column="99" selection-end-line="59" selection-end-column="99" />
+                <caret line="59" column="99" lean-forward="false" selection-start-line="59" selection-start-column="99" selection-end-line="59" selection-end-column="99" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -159,9 +157,9 @@
         <option value="$PROJECT_DIR$/ij-win-lin-toggle-comments.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-view-toggles.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/ij-osx.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-extract-method.md" />
+        <option value="$PROJECT_DIR$/ij-osx.md" />
       </list>
     </option>
   </component>
@@ -770,7 +768,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516217259136</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Added 1st of 2 kata for Extract Method for IntelliJ IDEA Mac OS X">
+      <created>1516226745258</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1516226745258</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -853,7 +858,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Removed reference to deleted file." />
     <MESSAGE value="Added kata for toggling different views using keyboard shortcuts" />
     <MESSAGE value="Minor formatting improvements" />
     <MESSAGE value="Added kata for navigating through source code method by method" />
@@ -878,7 +882,8 @@
     <MESSAGE value="Added &quot;view method hierarchy&quot; and &quot;view call hierarchy&quot; IntelliJ OS X" />
     <MESSAGE value="Added kata for &quot;go to declaration&quot; and &quot;go to implementation(s)&quot; IntelliJ OS X" />
     <MESSAGE value="Modifications to README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifications to README.md" />
+    <MESSAGE value="Added 1st of 2 kata for Extract Method for IntelliJ IDEA Mac OS X" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 1st of 2 kata for Extract Method for IntelliJ IDEA Mac OS X" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1448,7 +1453,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="446">
-            <caret line="59" column="99" lean-forward="true" selection-start-line="59" selection-start-column="99" selection-end-line="59" selection-end-column="99" />
+            <caret line="59" column="99" lean-forward="false" selection-start-line="59" selection-start-column="99" selection-end-line="59" selection-end-column="99" />
             <folding />
           </first_editor>
           <second_editor>
@@ -1460,8 +1465,8 @@
     <entry file="file://$PROJECT_DIR$/ij-osx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="589">
-            <caret line="42" column="27" lean-forward="true" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <first_editor relative-caret-position="559">
+            <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
             <folding />
           </first_editor>
           <second_editor>
