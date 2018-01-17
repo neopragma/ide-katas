@@ -10,9 +10,9 @@ When JetBrains products refer to a "path" in this context, they mean a search pa
 
 Key sequences to practice:
 
-- ⌘⇧F
-- ⌘G, ⌘⇧G
-- ⌥P
+- ⌘⇧F (Command + Shift + F) - open "find in path" dialog
+- ⌘G, ⌘⇧G (Command + G), (Command + Shift + G) - go to next and previous occurrences
+- ⌥P (Option + P) - choose "project" as the search path
 
 Steps
 
