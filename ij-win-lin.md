@@ -6,7 +6,7 @@ Kata for practicing keyboard shortcuts
 
 **Navigate, search, and replace**
 
-- [Common view toggles](ij-win-lin-navigate-ide.md)
+- [Navigate the IDE](ij-win-lin-navigate-ide.md)
 - [Find in file](ij-win-lin-find-in-file.md)
 - [Find in path](ij-win-lin-find-in-path.md)
 - [Search everywhere](ij-win-lin-search-everywhere.md)
