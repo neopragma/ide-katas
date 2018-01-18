@@ -39,7 +39,7 @@ You can press (Escape) or (Ctrl + W) to close whichever view has focus.
 
 - Press and hold (Ctrl) and press (Tab) to open the Switcher dialog. When you release the (Ctrl) key, the dialog closes.
 - The Switcher dialog has two panes. The left-hand pane has a list of navigation options corresponding to the key sequences listed above. Try them.
-- The right-hand pane has a list of all open editor table. Use the (Down Arrow) and (Up Arrow) keys to move through the list. Press ⏎ (Enter) to make a selection. Focus moves to the selected editor tab.
+- The right-hand pane has a list of all open editor table. Use the (Down Arrow) and (Up Arrow) keys to move through the list. Press (Enter) to make a selection. Focus moves to the selected editor tab.
 - With Switcher open, you can press (Delete) to close an open file and remove it from the list. Handy way to close selected files.
 
 **Change viewing modes**
