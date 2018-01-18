@@ -61,4 +61,12 @@ JetBrains IDEs offer standard, distraction-free, and presentation viewing modes.
 
 If you are not using editor tabs, use Switcher to navigate between open files as described above.
 
+**How to disable editor tabs**
+
+Tabs are enabled by default. Press ⌘, (Command + Comma) to open the Preferences dialog. Navigate to Editor => General => Editor Tabs. Under Tab Appearance, choose "None" in the Placement drop-down. It looks like this:
+
+![Disable editor tabs](images/ij-disable-editor-tabs.png)
+
+
+
 
