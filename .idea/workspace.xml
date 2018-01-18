@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-navigate-ide.md" afterPath="$PROJECT_DIR$/ij-osx-navigate-ide.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,7 +28,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="800">
-                <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+                <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -405,13 +404,6 @@
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
     </task>
-    <task id="LOCAL-00012" summary="Added ij-osx-smart-code-completion.md">
-      <created>1516029887978</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1516029887978</updated>
-    </task>
     <task id="LOCAL-00013" summary="Changed Return key symbol in ij-osx-basic-code-completion.md">
       <created>1516030105560</created>
       <option name="number" value="00013" />
@@ -748,7 +740,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516286379218</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="    Formatting improverments">
+      <created>1516287106857</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1516287106857</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1449,7 +1448,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="800">
-            <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+            <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
