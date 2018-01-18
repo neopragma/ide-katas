@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ij-win-lin-navigate-ide.md" afterPath="$PROJECT_DIR$/ij-win-lin-navigate-ide.md" />
+      <change beforePath="$PROJECT_DIR$/ij-osx-extract-method-2.md" afterPath="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,12 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ij-win-lin-navigate-ide.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ij-win-lin-navigate-ide.md">
+      <file leaf-file-name="ij-osx-extract-method-2.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ij-osx-extract-method-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="516">
-                <caret line="41" column="131" lean-forward="true" selection-start-line="41" selection-start-column="131" selection-end-line="41" selection-end-column="131" />
+              <first_editor relative-caret-position="120">
+                <caret line="96" column="60" lean-forward="false" selection-start-line="96" selection-start-column="60" selection-end-line="96" selection-end-column="60" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -126,11 +126,11 @@
         <option value="$PROJECT_DIR$/ij-osx-navigate-through-methods.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-extract-method.md" />
-        <option value="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
         <option value="$PROJECT_DIR$/ij-osx.md" />
         <option value="$PROJECT_DIR$/ij-osx-navigate-ide.md" />
         <option value="$PROJECT_DIR$/ij-win-lin.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-navigate-ide.md" />
+        <option value="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
       </list>
     </option>
   </component>
@@ -404,13 +404,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Consolidated code completion pages.">
-      <created>1516119106918</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1516119106918</updated>
     </task>
     <task id="LOCAL-00019" summary="Removed page for optimize imports; no need for a kata">
       <created>1516119195095</created>
@@ -748,7 +741,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516289988345</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Fixed spelling error in ij-win-lin-navigate-ide.md">
+      <created>1516290063020</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1516290063020</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -808,14 +808,14 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21875" sideWeight="0.7079439" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21875" sideWeight="0.71495324" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26117647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49532712" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5046729" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21875" sideWeight="0.28504673" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -831,7 +831,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Moved background information out of README and into its own file" />
     <MESSAGE value="Added kata for keystrokes to show navigation bar IntelliJ OS X" />
     <MESSAGE value="Moved a couple of navigation-related kata from &quot;editing&quot; to &quot;navigation&quot;" />
     <MESSAGE value="Added kata for &quot;go to next/previous error&quot; IntelliJ OS X" />
@@ -856,7 +855,8 @@
     <MESSAGE value="Subsumed &quot;show navigation bar&quot; into &quot;Navigate the IDE&quot;" />
     <MESSAGE value="Revamped &quot;Navigate IDE&quot; docs for IntelliJ IDEA OS X and Windows/Linux" />
     <MESSAGE value="Fixed link title on ij-win-lin.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed link title on ij-win-lin.md" />
+    <MESSAGE value="Fixed spelling error in ij-win-lin-navigate-ide.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed spelling error in ij-win-lin-navigate-ide.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1350,25 +1350,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-extract-method-2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="32">
-            <caret line="44" column="1" lean-forward="false" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-go-to-next-error.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1448,13 +1429,32 @@
     <entry file="file://$PROJECT_DIR$/ij-win-lin-navigate-ide.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="516">
-            <caret line="41" column="131" lean-forward="true" selection-start-line="41" selection-start-column="131" selection-end-line="41" selection-end-column="131" />
+          <first_editor relative-caret-position="351">
+            <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-extract-method-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="96" column="60" lean-forward="false" selection-start-line="96" selection-start-column="60" selection-end-line="96" selection-end-column="60" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -94,7 +94,7 @@ with the caret positioned just after the first equals sign (=).
         String result = "";
 ```
 
-14. Now we can delete the lines that refer to _errorCount_ Press fnF2 (Fn + F2) to move focus to the next error. Press ⌘⌫ (Command + Delete) to delete that line. Do this sequence of keystrokes twice to delete the lines where _errorCount_ is incremented.
+14. Now we can delete the lines that refer to _errorCount_. Press fnF2 (Fn + F2) to move focus to the next error. Press ⌘⌫ (Command + Delete) to delete that line. Do this sequence of keystrokes twice to delete the lines where _errorCount_ is incremented.
 15. Press fnF2 (Fn + F2) one more time to position the caret at the beginning of the token, "errorCount" on line 69, which should read
 ```java
         if (errorCount > 0) {
