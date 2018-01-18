@@ -1,6 +1,4 @@
-<style type="text/css">
-    ol ol { list-style-type: decimal; }
-</style>
+
 [Top](README.md) => [IntelliJ on OS X](ij-osx.md)
 
 # JetBrains IntelliJ IDEA on Mac OS X
