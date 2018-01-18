@@ -10,7 +10,6 @@ Kata for practicing keyboard shortcuts
 **Navigate, search, and replace**
 
 - [Navigate the IDE](ij-osx-navigate-ide.md)
-- [Open and close project view](ij-osx-project-view.md)
 - [Show navigation bar](ij-osx-show-navigation-bar.md)
 - [Find in file](ij-osx-find-in-file.md)
 - [Find in path](ij-osx-find-in-path.md)
