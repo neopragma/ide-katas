@@ -3,13 +3,13 @@
 
 # JetBrains IntelliJ IDEA on Mac OS X
 
-### Kata: Navigate the IDE
+### Navigate the IDE
 
 **Useful sequences to remember**
 
 - ⌃⌘F (Ctrl + Command + F) - toggle full screen
 - ⌘⇧fnF12 (Command + Shift + Fn + F12) - toggle maximize editor tab
-- ⌥↖︎ (Option + Home) or fn⌥← (Fn + Option + Left Arrow) show navigation bar
+- ⌥↖︎ (Option + Home) or fn⌥← (Fn + Option + Left Arrow) - show navigation bar
 - ⌃⇥ (Ctrl + Tab) - Switcher
 - ⌃` (Ctrl + Backtick) - Switch...
   1. Color Scheme
@@ -51,20 +51,15 @@ JetBrains IDEs offer standard, distraction-free, and presentation viewing modes.
 - Press ⌃` (Ctrl + Backtick) to open the mode switching dialog. This dialog behaves differently than the Switcher. It will remain open until you make a selection from the list. Use ↓ (Down Arrow) and ↑ (Up Arrow) to highlight the viewing mode you want and press ⏎ (Return/Enter), or press the number key corresponding to the menu option you want.
 - Choose 4 to change the view mode. Select from the available options.
 
-**Navigating across editor tabs**
-
-- ⇧⌘] (Shift + Command + ]) - moves focus to the editor tab to the right of the current tab
-- ⇧⌘[ (Shift + Command + [) - moves focus to the editor tab to the left of the current tab
-- ⌘] (Command + ]) - moves focus forward through the "history" of your work in open editor tabs
-- ⌘[ (Command + [) - moves focus backward through the "history" of your work in open editor tabs
-
 **Using the IDE without editor tabs**
 
-If you are not using editor tabs, use Switcher to navigate between open files as described above.
+If you are not using editor tabs, use Switcher to navigate between open files as described above. Switcher will highlight the name of the file you were last editing, so it's easy to switch back and forth between two files.
 
 **How to disable editor tabs**
 
-Tabs are enabled by default. Press ⌘, (Command + Comma) to open the Preferences dialog. Navigate to Editor => General => Editor Tabs. Under Tab Appearance, choose "None" in the Placement drop-down. It looks like this:
+Tabs are enabled by default. Some people prefer to disable tabs to leave more screen real estate available for the editor window.
+
+Press ⌘, (Command + Comma) to open the Preferences dialog. Navigate to Editor => General => Editor Tabs. Under Tab Appearance, choose "None" in the Placement drop-down. It looks like this:
 
 ![Disable editor tabs](images/ij-disable-editor-tabs.png)
 
