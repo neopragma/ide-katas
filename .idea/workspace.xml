@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ij-osx-navigate-ide.md" afterPath="$PROJECT_DIR$/ij-osx-navigate-ide.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,7 +28,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="331">
-                <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+                <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor>
@@ -405,13 +404,6 @@
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
     </task>
-    <task id="LOCAL-00010" summary="Corrections to ij-osx-code-completion.md">
-      <created>1515979402796</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1515979402796</updated>
-    </task>
     <task id="LOCAL-00011" summary="Fixed formatting problem in ij-osx-code-completion.md">
       <created>1516026050272</created>
       <option name="number" value="00011" />
@@ -748,7 +740,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516285696540</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Formatting improverments">
+      <created>1516286349325</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1516286349325</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -860,7 +859,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added kata for copying/pasting text &amp; splitting/joining lines" />
     <MESSAGE value="Added link back to IntelliJ on OS X page from each kata page" />
     <MESSAGE value="Minor formatting and spelling corrections." />
     <MESSAGE value="More spelling corrections." />
@@ -885,7 +883,8 @@
     <MESSAGE value="Minor correction to ij-osx-extract-method-2.md" />
     <MESSAGE value="Significant improvements to IDE navigation doc for IntelliJ IDEA on Mac OS X" />
     <MESSAGE value="Formatting improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formatting improvements" />
+    <MESSAGE value="Formatting improverments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formatting improverments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1478,7 +1477,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="331">
-            <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+            <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor>
