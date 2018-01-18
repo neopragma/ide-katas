@@ -6,7 +6,7 @@ Kata for practicing keyboard shortcuts
 
 **Navigate, search, and replace**
 
-- [Common view toggles](ij-win-lin-view-toggles.md)
+- [Common view toggles](ij-win-lin-navigate-ide.md)
 - [Open and close project view](ij-win-lin-project-view.md)
 - [Show navigation bar](ij-win-lin-show-navigation-bar.md)
 - [Find in file](ij-win-lin-find-in-file.md)
