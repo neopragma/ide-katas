@@ -5,7 +5,7 @@
 
 ### Kata: Navigate the IDE
 
-**Key sequences to remember**
+**Useful sequences to remember**
 
 - ⌃⌘F (Ctrl + Command + F) - toggle full screen
 - ⌘⇧fnF12 (Command + Shift + Fn + F12) - toggle maximize editor tab
@@ -14,12 +14,12 @@
   1. Color Scheme
   2. Code Style Scheme
   3. Keymap
-  4. View Mode
+  4. View Mode <= _of interest here_
   5. Look and Feel
-- ⇧⌘] (Shift + Command + ]) - editor tab to the right
-- ⇧⌘[ (Shift + Command + [) - editor tab to the left
-- ⌘] (Command + ]) - next editor tab in history
-- ⌘[ (Command + [) - previous editor tab in history
+- ⇧⌘] (Shift + Command + ]) - go to editor tab to the right
+- ⇧⌘[ (Shift + Command + [) - go to editor tab to the left
+- ⌘] (Command + ]) - go to next editor tab in history
+- ⌘[ (Command + [) - go to previous editor tab in history
 
 
 **Toggle various panes**
@@ -28,18 +28,13 @@
 - ⌘1 (Command + 1) - toggle project view
 - ⌘2 (Command + 2) - toggle favorites view
 - ⌘4 (Command + 4) - toggle run view
-- ⌘6 (Command + 6) - toggle TODO view
-- ⌘7 (Command + 7) - toggle structure view
+- ⌘7 (Command + 7) - toggle structur view
 - ⌘9 (Command + 9) - toggle version control view
 - ⌘; (Command + Semicolon) - open Project Structure dialog
 - ⌘, (Command + Comma) - open Preferences dialog
 - ⌘E (Command + E) - show list of recently-opened files
 
 You can press ⎋ (Escape) or ⌘W (Command + W) to close whichever view has focus.
-
-**Procedure**
-
-Repeat these key sequences until you feel you can remember them reasonably well.
 
 **Use Switcher to navigate between panes**
 
