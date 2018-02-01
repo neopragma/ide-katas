@@ -33,8 +33,8 @@ Kata for practicing keyboard shortcuts
 **Refactoring**
 
 - [Rename](ij-win-lin-rename.md)
-- [Extract Method]()
-- [Inline]()
+- [Extract Method 1]()
+- [Extract Method 2]()
 - [Decompose Conditional]()
 - [Compose Method]()
 - [Iteration to Lambda]()
