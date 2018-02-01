@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-decompose-conditional.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
-      <change beforePath="$PROJECT_DIR$/ij-win-lin.md" afterPath="$PROJECT_DIR$/ij-win-lin.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,12 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ij-osx-decompose-conditional.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ij-osx-decompose-conditional.md">
+      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-292">
-                <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <first_editor relative-caret-position="345">
+                <caret line="40" column="57" lean-forward="false" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -127,10 +125,10 @@
         <option value="$PROJECT_DIR$/ij-osx-navigate-ide.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-navigate-ide.md" />
         <option value="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
-        <option value="$PROJECT_DIR$/ij-osx.md" />
         <option value="$PROJECT_DIR$/ij-win-lin.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-decompose-conditional.md" />
+        <option value="$PROJECT_DIR$/ij-osx.md" />
       </list>
     </option>
   </component>
@@ -391,14 +389,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
-      <workItem from="1517516867025" duration="3652000" />
-    </task>
-    <task id="LOCAL-00019" summary="Removed page for optimize imports; no need for a kata">
-      <created>1516119195095</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1516119195095</updated>
+      <workItem from="1517516867025" duration="3718000" />
     </task>
     <task id="LOCAL-00020" summary="Added kata for navigating through text token by token.">
       <created>1516119930561</created>
@@ -736,7 +727,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516290063020</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Added &quot;decompose conditional&quot; for IntelliJ IDEA on Mac OS X">
+      <created>1517520604262</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1517520604263</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -772,7 +770,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3652000" />
+    <option name="totallyTimeSpent" value="3718000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -856,7 +854,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added kata for keystrokes to show navigation bar IntelliJ OS X" />
     <MESSAGE value="Moved a couple of navigation-related kata from &quot;editing&quot; to &quot;navigation&quot;" />
     <MESSAGE value="Added kata for &quot;go to next/previous error&quot; IntelliJ OS X" />
     <MESSAGE value="Added kata for &quot;go to superclass/supermethod&quot; IntelliJ OS X" />
@@ -881,7 +878,8 @@
     <MESSAGE value="Revamped &quot;Navigate IDE&quot; docs for IntelliJ IDEA OS X and Windows/Linux" />
     <MESSAGE value="Fixed link title on ij-win-lin.md" />
     <MESSAGE value="Fixed spelling error in ij-win-lin-navigate-ide.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed spelling error in ij-win-lin-navigate-ide.md" />
+    <MESSAGE value="Added &quot;decompose conditional&quot; for IntelliJ IDEA on Mac OS X" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;decompose conditional&quot; for IntelliJ IDEA on Mac OS X" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1010,17 +1008,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="426">
-            <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1116">
@@ -1037,6 +1024,17 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-292">
             <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="40" column="57" lean-forward="false" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
             <folding />
           </first_editor>
           <second_editor />
