@@ -39,8 +39,6 @@ Kata for practicing keyboard shortcuts
 - [Extract Method 1](ij-osx-extract-method.md)
 - [Extract Method 2](ij-osx-extract-method-2.md)
 - [Decompose Conditional](ij-osx-decompose-conditional.md)
-- [Compose Method]()
-- [Iteration to Lambda]()
 
 **Version Control**
 
