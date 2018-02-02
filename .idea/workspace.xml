@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-extract-field.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-extract-variable.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/BrowserMadness.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
       <change beforePath="$PROJECT_DIR$/ij-win-lin.md" afterPath="$PROJECT_DIR$/ij-win-lin.md" />
@@ -26,12 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ij-win-lin.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ij-win-lin.md">
+      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="326">
-                <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+              <first_editor relative-caret-position="364">
+                <caret line="40" column="44" lean-forward="false" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -82,9 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/State.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Animal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Canine.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/SendStatus.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Message.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/SoapMessage.java" />
@@ -129,10 +127,13 @@
         <option value="$PROJECT_DIR$/src/ij-osx-extract-constant.md" />
         <option value="$PROJECT_DIR$/ij-osx-tbd.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-tbd.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/ij-osx-extract-field.md" />
-        <option value="$PROJECT_DIR$/ij-osx.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Platform.java" />
+        <option value="$PROJECT_DIR$/ij-osx-extract-variable.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/BrowserMadness.java" />
         <option value="$PROJECT_DIR$/ij-win-lin.md" />
+        <option value="$PROJECT_DIR$/ij-osx.md" />
       </list>
     </option>
   </component>
@@ -176,11 +177,6 @@
             <path>
               <item name="ide-katas" type="b2602c69:ProjectViewProjectNode" />
               <item name="ide-katas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ide-katas" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ide-katas" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,14 +374,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
-      <workItem from="1517516867025" duration="12029000" />
-    </task>
-    <task id="LOCAL-00025" summary="Added kata for navigating through source code method by method">
-      <created>1516131791513</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1516131791513</updated>
+      <workItem from="1517516867025" duration="14240000" />
     </task>
     <task id="LOCAL-00026" summary="Corrected filename for &quot;find-in-path&quot; kata">
       <created>1516132622671</created>
@@ -723,7 +712,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517578264725</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Added &quot;extract field&quot; kata for IntelliJ IDEA on Mac OS X.">
+      <created>1517582471371</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1517582471372</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -759,7 +755,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12029000" />
+    <option name="totallyTimeSpent" value="14240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -843,7 +839,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Modifications to README.md" />
     <MESSAGE value="Added 1st of 2 kata for Extract Method for IntelliJ IDEA Mac OS X" />
     <MESSAGE value="Fixed spelling error in filename" />
     <MESSAGE value="Fixed spelling error in ij-osx-extract-method.md" />
@@ -868,28 +863,14 @@
     <MESSAGE value="Added &quot;extract constant&quot; kata for IntelliJ IDEA on Mac OS X." />
     <MESSAGE value="Moved &quot;extract constant&quot; file to the correct location." />
     <MESSAGE value="Added &quot;tbd&quot; files so people won't get 404s when a kata is not yet published." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;tbd&quot; files so people won't get 404s when a kata is not yet published." />
+    <MESSAGE value="Added &quot;extract field&quot; kata for IntelliJ IDEA on Mac OS X." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;extract field&quot; kata for IntelliJ IDEA on Mac OS X." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/SoapMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="52" lean-forward="false" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx-go-to-superclass.md" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/SoapSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Sender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1034,14 +1015,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-extract-field.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1053,22 +1026,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Platform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-extract-variable.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="231">
-            <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <first_editor relative-caret-position="1047">
+            <caret line="88" column="64" lean-forward="false" selection-start-line="88" selection-start-column="64" selection-end-line="88" selection-end-column="64" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/BrowserMadness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#585#586#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ij-win-lin.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="326">
-            <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+          <first_editor relative-caret-position="364">
+            <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="364">
+            <caret line="40" column="44" lean-forward="false" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
             <folding />
           </first_editor>
           <second_editor />
