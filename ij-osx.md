@@ -43,5 +43,5 @@ Kata for practicing keyboard shortcuts
 
 **Version Control**
 
-- [Git: Add changes]()
-- [Git: Commit and push]()
+- [Git: Add changes](ij-osx-tbd.md)
+- [Git: Commit and push](ij-osx-tbd.md)

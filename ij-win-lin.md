@@ -33,12 +33,12 @@ Kata for practicing keyboard shortcuts
 **Refactoring**
 
 - [Rename](ij-win-lin-rename.md)
-- [Extract Constant]()
-- [Extract Method 1]()
-- [Extract Method 2]()
-- [Decompose Conditional]()
+- [Extract Constant](ij-win-lin-tbd.md)
+- [Extract Method 1](ij-win-lin-tbd.md)
+- [Extract Method 2](ij-win-lin-tbd.md)
+- [Decompose Conditional](ij-win-lin-tbd.md)
 
 **Version Control**
 
-- [Git: Add changes]()
-- [Git: Commit and push]()
+- [Git: Add changes](ij-win-lin-tbd.md)
+- [Git: Commit and push](ij-win-lin-tbd.md)

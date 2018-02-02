@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-tbd.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-tbd.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ij-osx-extract-constant.md" afterPath="$PROJECT_DIR$/ij-osx-extract-constant.md" />
+      <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
+      <change beforePath="$PROJECT_DIR$/ij-win-lin.md" afterPath="$PROJECT_DIR$/ij-win-lin.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,12 +27,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ij-osx-extract-constant.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ij-osx-extract-constant.md">
+      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ij-osx.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="107">
-                <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+              <first_editor relative-caret-position="478">
+                <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -80,8 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ij-osx-go-to-next-error.md" />
-        <option value="$PROJECT_DIR$/ij-osx-go-to-last-edit-location.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/State.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Animal.java" />
@@ -127,10 +128,12 @@
         <option value="$PROJECT_DIR$/ij-win-lin-navigate-ide.md" />
         <option value="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
         <option value="$PROJECT_DIR$/ij-osx-decompose-conditional.md" />
-        <option value="$PROJECT_DIR$/ij-win-lin.md" />
-        <option value="$PROJECT_DIR$/ij-osx.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/src/ij-osx-extract-constant.md" />
+        <option value="$PROJECT_DIR$/ij-osx-tbd.md" />
+        <option value="$PROJECT_DIR$/ij-win-lin-tbd.md" />
+        <option value="$PROJECT_DIR$/ij-win-lin.md" />
+        <option value="$PROJECT_DIR$/ij-osx.md" />
       </list>
     </option>
   </component>
@@ -376,14 +379,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
-      <workItem from="1517516867025" duration="9167000" />
-    </task>
-    <task id="LOCAL-00023" summary="Added kata for toggling different views using keyboard shortcuts">
-      <created>1516129094697</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1516129094697</updated>
+      <workItem from="1517516867025" duration="10065000" />
     </task>
     <task id="LOCAL-00024" summary="Minor formatting improvements">
       <created>1516129832765</created>
@@ -721,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517576154342</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Moved &quot;extract constant&quot; file to the correct location.">
+      <created>1517576205937</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1517576205937</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -757,7 +760,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9167000" />
+    <option name="totallyTimeSpent" value="10065000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -770,6 +773,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="710" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827103" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -783,7 +787,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26796874" sideWeight="0.71495324" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26796874" sideWeight="0.71495324" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49532712" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -840,7 +844,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added &quot;view method hierarchy&quot; and &quot;view call hierarchy&quot; IntelliJ OS X" />
     <MESSAGE value="Added kata for &quot;go to declaration&quot; and &quot;go to implementation(s)&quot; IntelliJ OS X" />
     <MESSAGE value="Modifications to README.md" />
     <MESSAGE value="Added 1st of 2 kata for Extract Method for IntelliJ IDEA Mac OS X" />
@@ -865,21 +868,14 @@
     <MESSAGE value="Added link to &quot;decompose conditional&quot; page" />
     <MESSAGE value="Removed most multi-step refactorings from the set. They are beyond &quot;keyboard shortcut&quot; practice." />
     <MESSAGE value="Added &quot;extract constant&quot; kata for IntelliJ IDEA on Mac OS X." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;extract constant&quot; kata for IntelliJ IDEA on Mac OS X." />
+    <MESSAGE value="Moved &quot;extract constant&quot; file to the correct location." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved &quot;extract constant&quot; file to the correct location." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Canine.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/MomMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -924,7 +920,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ij-win-lin-basic-code-completion.md" />
-    <entry file="file://$PROJECT_DIR$/ij-win-lin-copy-paste-text.md" />
     <entry file="file://$PROJECT_DIR$/ij-win-lin-editor-tabs.md" />
     <entry file="file://$PROJECT_DIR$/ij-win-lin-expand-collapse.md" />
     <entry file="file://$PROJECT_DIR$/ij-win-lin-find-in-file.md" />
@@ -975,28 +970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-win-lin.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="318">
-            <caret line="35" column="22" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ij-osx.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="307">
-            <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-extract-method-2.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1036,8 +1009,63 @@
     <entry file="file://$PROJECT_DIR$/ij-osx-extract-constant.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="107">
-            <caret line="76" column="3" lean-forward="true" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-tbd.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-win-lin-copy-paste-text.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-win-lin-tbd.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-win-lin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="478">
+            <caret line="43" column="42" lean-forward="false" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="478">
+            <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
             <folding />
           </first_editor>
           <second_editor />
