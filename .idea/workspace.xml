@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ij-osx-extract-constant.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
-      <change beforePath="$PROJECT_DIR$/ij-win-lin.md" afterPath="$PROJECT_DIR$/ij-win-lin.md" />
+      <change beforePath="$PROJECT_DIR$/src/ij-osx-extract-constant.md" afterPath="$PROJECT_DIR$/ij-osx-extract-constant.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,7 +25,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="ij-osx-extract-constant.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ij-osx-extract-constant.md">
+        <entry file="file://$PROJECT_DIR$/ij-osx-extract-constant.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="107">
@@ -227,6 +225,9 @@
     <key name="IntroduceConstantDialog.RECENTS_KEY">
       <recent name="com.neopragma.idekatas.LongConditional" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.neopragma.idekatas" />
     </key>
@@ -375,14 +376,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
-      <workItem from="1517516867025" duration="9102000" />
-    </task>
-    <task id="LOCAL-00022" summary="Removed reference to deleted file.">
-      <created>1516121362211</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1516121362211</updated>
+      <workItem from="1517516867025" duration="9167000" />
     </task>
     <task id="LOCAL-00023" summary="Added kata for toggling different views using keyboard shortcuts">
       <created>1516129094697</created>
@@ -720,7 +714,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517522188625</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Added &quot;extract constant&quot; kata for IntelliJ IDEA on Mac OS X.">
+      <created>1517576154342</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1517576154342</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -756,7 +757,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9102000" />
+    <option name="totallyTimeSpent" value="9167000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -769,7 +770,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="710" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827103" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -783,7 +783,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1171875" sideWeight="0.71495324" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26796874" sideWeight="0.71495324" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49532712" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -840,7 +840,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added kata for &quot;go to superclass/supermethod&quot; IntelliJ OS X" />
     <MESSAGE value="Added &quot;view method hierarchy&quot; and &quot;view call hierarchy&quot; IntelliJ OS X" />
     <MESSAGE value="Added kata for &quot;go to declaration&quot; and &quot;go to implementation(s)&quot; IntelliJ OS X" />
     <MESSAGE value="Modifications to README.md" />
@@ -865,7 +864,8 @@
     <MESSAGE value="Added &quot;decompose conditional&quot; for IntelliJ IDEA on Mac OS X" />
     <MESSAGE value="Added link to &quot;decompose conditional&quot; page" />
     <MESSAGE value="Removed most multi-step refactorings from the set. They are beyond &quot;keyboard shortcut&quot; practice." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed most multi-step refactorings from the set. They are beyond &quot;keyboard shortcut&quot; practice." />
+    <MESSAGE value="Added &quot;extract constant&quot; kata for IntelliJ IDEA on Mac OS X." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;extract constant&quot; kata for IntelliJ IDEA on Mac OS X." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1033,7 +1033,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ij-osx-extract-constant.md">
+    <entry file="file://$PROJECT_DIR$/ij-osx-extract-constant.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="107">
