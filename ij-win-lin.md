@@ -33,6 +33,7 @@ Kata for practicing keyboard shortcuts
 **Refactoring**
 
 - [Rename](ij-win-lin-rename.md)
+- [Extract Constant]()
 - [Extract Method 1]()
 - [Extract Method 2]()
 - [Decompose Conditional]()

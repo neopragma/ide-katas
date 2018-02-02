@@ -36,6 +36,7 @@ Kata for practicing keyboard shortcuts
 **Refactoring**
 
 - [Rename](ij-osx-rename.md)
+- [Extract Constant](ij-osx-extract-constant.md)
 - [Extract Method 1](ij-osx-extract-method.md)
 - [Extract Method 2](ij-osx-extract-method-2.md)
 - [Decompose Conditional](ij-osx-decompose-conditional.md)
