@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3a0eda-c0d7-4154-8202-2ad6e0f58cd6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-tbd.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ij-win-lin-tbd.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ij-osx-extract-field.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/ij-osx.md" afterPath="$PROJECT_DIR$/ij-osx.md" />
       <change beforePath="$PROJECT_DIR$/ij-win-lin.md" afterPath="$PROJECT_DIR$/ij-win-lin.md" />
@@ -27,12 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ij-osx.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ij-osx.md">
+      <file leaf-file-name="ij-win-lin.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ij-win-lin.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="478">
-                <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+              <first_editor relative-caret-position="326">
+                <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -83,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/CodeCompletionPractice.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/State.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Animal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/Canine.java" />
@@ -128,12 +126,13 @@
         <option value="$PROJECT_DIR$/ij-win-lin-navigate-ide.md" />
         <option value="$PROJECT_DIR$/ij-osx-extract-method-2.md" />
         <option value="$PROJECT_DIR$/ij-osx-decompose-conditional.md" />
-        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
         <option value="$PROJECT_DIR$/src/ij-osx-extract-constant.md" />
         <option value="$PROJECT_DIR$/ij-osx-tbd.md" />
         <option value="$PROJECT_DIR$/ij-win-lin-tbd.md" />
-        <option value="$PROJECT_DIR$/ij-win-lin.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java" />
+        <option value="$PROJECT_DIR$/ij-osx-extract-field.md" />
         <option value="$PROJECT_DIR$/ij-osx.md" />
+        <option value="$PROJECT_DIR$/ij-win-lin.md" />
       </list>
     </option>
   </component>
@@ -379,14 +378,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515869798440</updated>
-      <workItem from="1517516867025" duration="10065000" />
-    </task>
-    <task id="LOCAL-00024" summary="Minor formatting improvements">
-      <created>1516129832765</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1516129832765</updated>
+      <workItem from="1517516867025" duration="12029000" />
     </task>
     <task id="LOCAL-00025" summary="Added kata for navigating through source code method by method">
       <created>1516131791513</created>
@@ -724,7 +716,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517576205937</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Added &quot;tbd&quot; files so people won't get 404s when a kata is not yet published.">
+      <created>1517578264725</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1517578264725</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -760,7 +759,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10065000" />
+    <option name="totallyTimeSpent" value="12029000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -844,7 +843,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Added kata for &quot;go to declaration&quot; and &quot;go to implementation(s)&quot; IntelliJ OS X" />
     <MESSAGE value="Modifications to README.md" />
     <MESSAGE value="Added 1st of 2 kata for Extract Method for IntelliJ IDEA Mac OS X" />
     <MESSAGE value="Fixed spelling error in filename" />
@@ -869,20 +867,14 @@
     <MESSAGE value="Removed most multi-step refactorings from the set. They are beyond &quot;keyboard shortcut&quot; practice." />
     <MESSAGE value="Added &quot;extract constant&quot; kata for IntelliJ IDEA on Mac OS X." />
     <MESSAGE value="Moved &quot;extract constant&quot; file to the correct location." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved &quot;extract constant&quot; file to the correct location." />
+    <MESSAGE value="Added &quot;tbd&quot; files so people won't get 404s when a kata is not yet published." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added &quot;tbd&quot; files so people won't get 404s when a kata is not yet published." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/MomMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/SoapMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -998,14 +990,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="35" lean-forward="false" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ij-osx-extract-constant.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1050,11 +1034,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ij-win-lin.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/neopragma/idekatas/LongConditional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-osx-extract-field.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="478">
-            <caret line="43" column="42" lean-forward="false" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <first_editor relative-caret-position="330">
+            <caret line="36" column="3" lean-forward="true" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1064,8 +1056,19 @@
     <entry file="file://$PROJECT_DIR$/ij-osx.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="478">
-            <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+          <first_editor relative-caret-position="231">
+            <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ij-win-lin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="326">
+            <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />

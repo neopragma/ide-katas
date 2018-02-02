@@ -34,6 +34,7 @@ Kata for practicing keyboard shortcuts
 
 - [Rename](ij-win-lin-rename.md)
 - [Extract Constant](ij-win-lin-tbd.md)
+- [Extract Field](ij-win-lin-tbd.md)
 - [Extract Method 1](ij-win-lin-tbd.md)
 - [Extract Method 2](ij-win-lin-tbd.md)
 - [Decompose Conditional](ij-win-lin-tbd.md)
